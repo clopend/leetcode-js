@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omuumo/code.git"
+    "url": "git+https://github.com/huangmeihui/code.git"
   },
   "keywords": [
     "leetcode"
   ],
-  "author": "omuumo",
+  "author": "huangmeihui",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/omuumo/code/issues"
+    "url": "https://github.com/huangmeihui/code/issues"
   },
-  "homepage": "https://github.com/omuumo/code#readme",
+  "homepage": "https://github.com/huangmeihui/code#readme",
   "dependencies": {
     "jest": "^24.9.0"
   }
