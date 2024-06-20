@@ -1,2 +1,1 @@
-# code
-My Code
+leetcode js solutions
